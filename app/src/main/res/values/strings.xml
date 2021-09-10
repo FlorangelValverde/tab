@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="tab_text_1">Musica</string>
+    <string name="tab_text_2">Artista</string>
+</resources>
